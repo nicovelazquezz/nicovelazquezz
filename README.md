@@ -70,12 +70,12 @@ Para activar la snake animation configurá el Action Platane/snk en este repo
   </a>
 </p>
 
-<h2>⭐ | GitHub Stats</h2>
+<h2>📊 | Mis contribuciones</h2>
 
 <div align="center">
 <a href="https://github.com/nicovelazquezz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicovelazquezz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicovelazquezz&layout=compact&langs_count=7&theme=transparent"/></a>
+<img src="https://ghchart.rshah.org/nicovelazquezz" alt="Contribuciones de Nicolás en el último año" width="100%"/>
+</a>
 </div>
 
 <h2>🛠️ | Lenguajes, Frameworks y Herramientas</h2>
