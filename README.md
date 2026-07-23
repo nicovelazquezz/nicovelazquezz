@@ -4,17 +4,6 @@
 <h2>📖 | Sobre mí</h2>
 🌐 Desarrollador Full-Stack con más de 5 años de experiencia. Formo parte del equipo que construye <b>MiBahía</b>, el ecosistema de gobierno digital de la Municipalidad de Bahía Blanca: portal ciudadano, app móvil publicada en App Store y Google Play, y microservicios backend. Como freelance desarrollo productos completos bajo mi marca <b>Altum Labs</b> —boletería de cines, SaaS y e-commerce— con foco en pagos online, geolocalización e integraciones de IA.
 
-<!--
-Para activar la snake animation configurá el Action Platane/snk en este repo
-(https://github.com/Platane/snk) y descomentá este bloque:
-
-<div align="center">
-  <br>
-  <img alt="snake" src="https://raw.githubusercontent.com/nicovelazquezz/nicovelazquezz/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
--->
-
 <h2>🚀 | Proyectos en producción</h2>
 <p>Productos que diseñé, desarrollé y desplegué de punta a punta:</p>
 
@@ -61,21 +50,6 @@ Para activar la snake animation configurá el Action Platane/snk en este repo
       </td>
     </tr>
   </table>
-</div>
-
-<h2>🔥 | Mi racha de contribuciones</h2>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nicovelazquezz&theme=transparent"/>
-  </a>
-</p>
-
-<h2>📊 | Mis contribuciones</h2>
-
-<div align="center">
-<a href="https://github.com/nicovelazquezz">
-<img src="https://ghchart.rshah.org/nicovelazquezz" alt="Contribuciones de Nicolás en el último año" width="100%"/>
-</a>
 </div>
 
 <h2>🛠️ | Lenguajes, Frameworks y Herramientas</h2>
@@ -160,6 +134,23 @@ Para activar la snake animation configurá el Action Platane/snk en este repo
     </tr>
 </table>
 <br>
+
+<h2>🔥 | Mi racha de contribuciones</h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nicovelazquezz&theme=transparent"/>
+  </a>
+</p>
+
+<h2>📊 | Mis contribuciones</h2>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicovelazquezz/nicovelazquezz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicovelazquezz/nicovelazquezz/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation de mis contribuciones" src="https://raw.githubusercontent.com/nicovelazquezz/nicovelazquezz/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+</div>
 
 <h2>📫 | Contacto</h2>
 <p>
