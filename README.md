@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00B1EA&height=200&section=header&text=Nicol%C3%A1s%20Velazquez&fontSize=50&fontColor=ffffff&desc=Desarrollador%20Full-Stack%20%C2%B7%20React%20%C2%B7%20React%20Native%20%C2%B7%20NestJS%20%C2%B7%20Django&descSize=18&descAlignY=75" width="100%"/>
 
 <h2>📖 | Sobre mí</h2>
-🌐 Desarrollador Full-Stack con más de 5 años de experiencia. Formo parte del equipo que construye <b>MiBahía</b>, el ecosistema de gobierno digital de la Municipalidad de Bahía Blanca: portal ciudadano, app móvil publicada en App Store y Google Play, y microservicios backend. Como freelance desarrollo productos completos bajo mi marca <b>Altum Labs</b> —boletería de cines, SaaS y e-commerce— con foco en pagos online, geolocalización e integraciones de IA.
+🌐 Desarrollador Full-Stack con más de 5 años de experiencia. Formo parte del equipo que construye <b>MiBahía</b>, el ecosistema de gobierno digital de la Municipalidad de Bahía Blanca: portal ciudadano, app móvil publicada en App Store y Google Play, y microservicios backend. Como freelance desarrollo productos completos bajo <b>Altum Labs</b> —boletería de cines, SaaS y e-commerce— con foco en pagos online, geolocalización e integraciones de IA.
 
 <h2>🚀 | Proyectos en producción</h2>
 <p>Productos que diseñé, desarrollé y desplegué de punta a punta:</p>
